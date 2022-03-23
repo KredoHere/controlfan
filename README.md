@@ -14,7 +14,9 @@ pip install pyparallel pathlib time
 There are few lines allowing You to play with the config:
 
 `ON_THRESHOLD`  - Temperature at which the fan starts to spin.
+
 `OFF_THRESHOLD` - Temperature at which the fan stops spinning.
+
 `SLEEP_INTERVAL` - Time between updates.
 
 The script can be started by issuing:
