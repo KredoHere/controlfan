@@ -19,6 +19,7 @@ There are few lines allowing You to play with the config:
 
 `SLEEP_INTERVAL` - Time between updates.
 
+
 The script can be started by issuing:
 ```bash
 python3 controlfan.py
